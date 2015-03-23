@@ -1,0 +1,40 @@
+body{
+	font-family: Bookman Old Style;
+	color: #FFFFFF;
+/*	font-size: 18px;*/
+	text-align: center;
+	background-image: url("images/type.jpg");
+}
+#headshot{
+	position: right;
+}
+#headshot img{
+	width: 116.25px;
+	height: 191.25px;
+	border-radius: 10em;
+}
+#wrapper {
+	/*max-width: 940px;
+	min-width: 720px;*/
+	margin: 10px auto 10px auto;
+	padding: 0px;
+	border: 4px double #000;
+	background-color: #ffffff;
+}
+li{
+	display: inline;
+	padding: 10px;
+
+}
+p.main{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+a{
+	color: #A31919;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover{
+	color: #CC0000;
+}
